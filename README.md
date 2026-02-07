@@ -1,4 +1,4 @@
-# Md Zahid Hasan
+# Md. Zahid Hasan
 
 Senior Machine Learning Engineer focused on production-grade AI systems, 
 large language models (LLMs), and distributed ML infrastructure.
@@ -95,4 +95,3 @@ AWS, GCP, Azure, RunPod
 
 - Email:  
   zahidhasancode.ml@gmail.com
-
