@@ -1,4 +1,4 @@
-# Md. Zahid Hasan
+# MD Zahid Hasan
 
 Senior Machine Learning Engineer focused on production-grade AI systems, 
 large language models (LLMs), and distributed ML infrastructure.
