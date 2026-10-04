@@ -39,4 +39,4 @@ Docker · Kubernetes · AWS / GCP / Azure
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/md-zahid-hasan) · zahidhasancode.ml@gmail.com
+[LinkedIn](https://www.linkedin.com/in/md-zahid-hasan-88321716a) · zahidhasancode.ml@gmail.com
