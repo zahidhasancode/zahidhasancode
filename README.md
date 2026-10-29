@@ -4,7 +4,7 @@ AI and machine learning engineer based in Barcelona. I build LLM applications en
 agents, fine-tuning, real-time inference, and the data pipelines and APIs around them.
 
 - Co-founder and AI engineer at Scaling Protos (ESADE eWorks, Barcelona)
-- Earlier: DevolvedAI (machine learning engineer) and Secure Intelligent (Hura, privacy-preserving AI;
+- Earlier: Devolved AI (machine learning engineer) and Secure Intelligent (Hura, privacy-preserving AI;
   [listed by the Paris Peace Forum](https://parispeaceforum.org/projects/hura-decentralized-train-llm/)
   for the AI Action Summit, Paris 2025)
 - Spanish work permit; English and Spanish
@@ -19,18 +19,18 @@ sentence-by-sentence speech and a benchmark that measures latency from outside. 
 service for storing LLM request data, running evaluators and aggregating quality, latency and cost.
 
 **[llm-data-platform](https://github.com/zahidhasancode/llm-data-platform)** — prototype pipeline for
-dataset versioning, config-driven fine-tuning and evaluation.
+dataset versioning and config-driven runs (training and evaluation steps are simulated stubs).
 
-**Fine-tuning notebooks** — [Mixtral 8x7B](https://github.com/zahidhasancode/Finetuning-mixtral8x7b),
+**Fine-tuning study notebooks** (QLoRA setups) — [Mixtral 8x7B](https://github.com/zahidhasancode/Finetuning-mixtral8x7b),
 [LLaMA 2 7B](https://github.com/zahidhasancode/Fine-Tuning-Llama-Custom-dataset),
 [Yi-34B](https://github.com/zahidhasancode/Finetuning-Yi-34B-using-custom-dataset).
 
 **Retrieval** — [RAG backend with FastAPI and FAISS](https://github.com/zahidhasancode/RAG-APPLICATION),
 [RAG chatbot](https://github.com/zahidhasancode/RAG-Chatbot-Application).
 
-**Earlier work** — [ransomware detection with federated learning](https://github.com/zahidhasancode/Ransomware-Detection-with-Federated-Learning),
+**Earlier work** — [IoT botnet detection with simulated federated learning](https://github.com/zahidhasancode/Ransomware-Detection-with-Federated-Learning),
 [worker detection with YOLOv8](https://github.com/zahidhasancode/garment-worker-detection-yolov8),
-[GPT-style model from scratch](https://github.com/zahidhasancode/Building-GPT-LLM-124M).
+[GPT-2 (124M) fine-tuning demo](https://github.com/zahidhasancode/Building-GPT-LLM-124M).
 
 ## Working with
 
