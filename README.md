@@ -36,7 +36,7 @@ dataset versioning and config-driven runs (training and evaluation steps are sim
 **Retrieval** — [RAG backend with FastAPI and FAISS](https://github.com/zahidhasancode/RAG-APPLICATION),
 [RAG chatbot](https://github.com/zahidhasancode/RAG-Chatbot-Application).
 
-**Earlier work** — [IoT botnet detection with simulated federated learning](https://github.com/zahidhasancode/Ransomware-Detection-with-Federated-Learning),
+**Earlier work** — [IoT botnet detection with simulated federated learning](https://github.com/zahidhasancode/iot-botnet-detection-federated-learning),
 [worker detection with YOLOv8](https://github.com/zahidhasancode/garment-worker-detection-yolov8),
 [GPT-2 (124M) fine-tuning demo](https://github.com/zahidhasancode/Building-GPT-LLM-124M).
 
