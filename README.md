@@ -11,9 +11,17 @@ agents, fine-tuning, real-time inference, and the data pipelines and APIs around
 
 ## Projects
 
+**[llm-engine](https://github.com/zahidhasancode/llm-engine)** — LLM serving engine built from scratch in
+PyTorch: own Qwen2 model, KV cache, continuous batching and an OpenAI-compatible streaming API. Benchmarked on
+one Tesla T4 at 229 tokens/s, against 32 for Hugging Face `generate` and 1,680 for vLLM, with the gap measured.
+
+**[text2sql-qlora](https://github.com/zahidhasancode/text2sql-qlora)** — completed QLoRA fine-tune of
+Qwen2.5-1.5B: execution accuracy on 500 held-out questions rose from 61.6 % to 71.8 %.
+
 **[voxera](https://github.com/zahidhasancode/voxera)** — real-time voice agent prototype. Streaming
 speech-to-text → LLM → text-to-speech over one WebSocket, with turn-taking, barge-in during playback,
-sentence-by-sentence speech and a benchmark that measures latency from outside. Python, FastAPI.
+sentence-by-sentence speech and a benchmark that measures latency from outside; barge-in 63 ms median with
+Deepgram. Python, FastAPI.
 
 **[llm-evaluation-platform](https://github.com/zahidhasancode/llm-evaluation-platform)** — prototype
 service for storing LLM request data, running evaluators and aggregating quality, latency and cost.
