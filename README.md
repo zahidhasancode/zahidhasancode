@@ -30,8 +30,7 @@ service for storing LLM request data, running evaluators and aggregating quality
 dataset versioning and config-driven runs (training and evaluation steps are simulated stubs).
 
 **Fine-tuning study notebooks** (QLoRA setups) — [Mixtral 8x7B](https://github.com/zahidhasancode/Finetuning-mixtral8x7b),
-[LLaMA 2 7B](https://github.com/zahidhasancode/Fine-Tuning-Llama-Custom-dataset),
-[Yi-34B](https://github.com/zahidhasancode/Finetuning-Yi-34B-using-custom-dataset).
+[LLaMA 2 7B](https://github.com/zahidhasancode/Fine-Tuning-Llama-Custom-dataset).
 
 **Retrieval** — [RAG backend with FastAPI and FAISS](https://github.com/zahidhasancode/RAG-APPLICATION),
 [RAG chatbot](https://github.com/zahidhasancode/RAG-Chatbot-Application).
